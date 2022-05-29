@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_icons_bottom2.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_icons_bottom2.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_icons_bottom3.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_icons_bottom3.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_icons_dialer2.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_icons_dialer2.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativebouncycheckbox_build_dist_check.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativebouncycheckbox_build_dist_check.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_icons_bottom1.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_icons_bottom1.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_map.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_map.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_icons_pin.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_icons_pin.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_dp.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_dp.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_icons_dialer.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/generated/res/react/release/drawable-mdpi/assets_icons_dialer.png"
+    },
+    {
+        "merged": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/deepdhar/code_files/react_native_codes/AssignmentUI/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
